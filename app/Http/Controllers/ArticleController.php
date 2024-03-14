@@ -78,7 +78,7 @@ class ArticleController extends Controller
         //    'content'=> 'required|max:500'
         //],
         //[
-        //    'title.required'=>'il titolo non è corretto',
+        //    'title.required'=>'il titolo non è corretto',,
         //    'title.max'=>'il titolo non è corretto',
         //    'content.required'=>'il contenuto è richiesto',
         //    'content.max'=>'il contenuto è troppo lungo'
